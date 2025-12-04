@@ -1,5 +1,5 @@
 {
-  "name": "1",
+  "name": "advent-2025",
   "module": "index.ts",
   "type": "module",
   "private": true,
@@ -7,6 +7,6 @@
     "@types/bun": "latest"
   },
   "peerDependencies": {
-    "typescript": "^5.9.3"
+    "typescript": "^5"
   }
 }

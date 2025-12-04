@@ -3,7 +3,7 @@
   "configVersion": 1,
   "workspaces": {
     "": {
-      "name": "2",
+      "name": "advent-2025",
       "devDependencies": {
         "@types/bun": "latest",
       },
